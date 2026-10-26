@@ -108,6 +108,7 @@
     </dependencies>
 
     <build>
+        <finalName>libraryapp</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
